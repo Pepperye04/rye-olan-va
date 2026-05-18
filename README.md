@@ -1,1 +1,0 @@
-# rye-olan-va
